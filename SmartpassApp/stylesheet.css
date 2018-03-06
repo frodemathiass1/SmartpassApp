@@ -1,0 +1,516 @@
+
+/*=============STYLE SHEET=============*/
+
+html{
+	margin:0;
+	padding:0;
+}
+
+body {
+
+	font-family: 'Raleway', sans-serif, serif;	
+	margin:0 auto;
+	background-size: 100%;
+	background-attachment:fixed ;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size:100%;
+	width:100%;
+	height:auto;
+	background-color:#ecf0f1;
+	margin:0 auto;	
+}
+
+
+	*body *{
+	box-sizing:border-box;
+}
+
+h1 {
+	color:#F2EFE6; 
+	text-align: left;
+	font-size: 200%;
+	letter-spacing: 0.2em;
+	font-family: ;
+	text-shadow: 2px 2px #000000;
+}
+
+h2 {
+	color:#000000;    
+	font-size:100%;
+}
+
+h3 {
+	font-size: 100%;
+	text-align: center;
+}
+
+h4 {
+	font-size: 100%;
+	color:#000000;
+	text-align: center;
+	margin-bottom: 1px;
+}
+
+
+p {
+	color:#000000;
+	font-size: 100%;
+	line-height: 190%;
+}
+
+a {
+	text-decoration: underline;
+	font-size: 100%;
+	color:#000000;
+}
+
+
+header {
+	width:100%;
+	padding:0.5em 1em 0.5em 1em ;
+	background-color: #34495e;
+	width:100%;
+	position: fixed;
+	text-align:center;		
+	}
+
+}
+footer {	
+	color: ;
+	height: auto;
+	width:100%;
+	margin-top: 1em;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+
+}
+
+
+
+
+
+/*===============Class & ID SELECCTORS==================*/
+
+#background {
+	
+}
+
+.hioa{
+	background-color: #ecf0f1;
+		text-align: center;
+	margin:0 auto;
+}
+
+.hioa img{
+
+}
+.header img{
+	width: 5%;
+	display: inline;
+	margin:0;	
+}
+
+
+.header h1 {
+	display: inline;
+	font-size: 300%;
+	font-family:"Oswald";
+	text-shadow: 2px 2px #000000;
+}
+.header li{
+	background-color:#2c3e50;
+	display: inline-block;
+	width:6em;
+	
+	padding-top:0.3em;
+	padding-bottom:0.3em; 
+	margin-right: 3em;
+	color: #ecf0f1;
+	border-radius: 1em;	
+    border:2px solid #95a5a6;
+}
+
+.header li a{
+	color:white;
+	text-decoration: none;
+}
+
+
+.header ul{
+margin-left: 0;
+display: inline-block;
+
+}
+
+.text {
+	text-align: center;
+	width: 45%;
+	text-align: justify;
+	margin:0 auto;
+	padding-top:2em;
+	padding-right:2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
+	display: block;
+	border-radius: 2em;
+	font-family: 'Segoe UI';
+	font-size: 110%;
+	font-weight:;
+}
+
+.text h3{
+	font-family: 'Raleway';
+	font-size: 140%;
+}
+
+.textabout h3{
+	font-family: 'Raleway';
+	font-size: 140%;
+}
+
+
+#contactemail h3{
+font-family: 'Raleway';
+	font-size: 140%;
+
+}
+.textabout{
+
+	text-align: center;
+	width: 45%;
+	text-align: justify;
+	margin:0 auto;
+	padding-top:12em;
+	padding-right:2em;
+	padding-left: 2em;
+	padding-bottom: 2em;
+	
+	display: block;
+	border-radius: 2em;
+	font-family: 'Segoe UI';
+	font-size: 110%;
+	font-weight:;
+}
+
+
+}
+
+.text h3{
+	font-family: 'Oswald';
+	font-size: 140%;
+}
+
+.text img {
+	width: 3%;
+}
+.opacitybox{
+background-color: #ecf0f1;
+height: 50%;
+/* padding-top: 50%; */
+
+}
+
+
+.opacityboxabout{
+background-color: #ecf0f1;
+height: 50%;
+
+}
+
+
+
+#icons img{
+	text-align: center;
+	display: block;
+	width: 100%;
+	margin:0 auto;
+}
+
+#bluetooth img{
+	text-align: center;
+	display: block;
+	width: 50%;
+	margin:0 auto;
+}
+
+#bluetoothlogo{
+	margin: 0 auto;
+	
+}
+#bluetoothlogo img{
+width:30%;
+text-align: center;
+
+}
+
+#gpslogo{
+	margin: 0 auto;
+	text-align: left;
+}
+#gpslogo img{
+width:20%;
+
+
+}
+
+#payment{
+	margin: 0 auto;
+	text-align: left;
+}
+#payment img{
+width:50%;
+
+
+}
+#appstorelogo {
+	text-align: center;
+	display: block;
+	width: 50%;
+	margin:0 auto;
+	
+		
+}
+.footy{
+	margin: 0 auto;
+	text-align: center;
+	background-color: #ecf0f1;
+
+
+
+}
+.footy p{
+	
+	color:black;
+	list-style-type: none;
+	margin: 0 auto;
+	letter-spacing: 0.2em;
+	padding:1em;
+	font-size: 90%;
+	
+}
+
+
+
+.first {
+
+}
+
+#mockup{
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 12em;
+
+	/*background-color: #2c3e50;*/
+	background-image: url("images/kvitfjell7.jpg")  ;
+	background-position: center;
+}
+#mockup img{
+	width: 50%;
+
+}
+
+#testemonials{
+	margin: 0 auto;
+	text-align: center;
+	padding-right: 1em;
+	padding-top: 4em;
+
+	background-color: #2c3e50;
+	height: 50%;
+	width:100%;
+}
+
+#testemonials img{
+	width: 55%;
+
+}
+
+
+#top{
+margin: 0 auto;
+text-align: center;	
+font-size:120%;
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+#top a{
+color: #ecf0f1;
+font-size: 100%;
+font-family: 'Segoe UI light';
+text-align: center;
+
+}
+
+#topabout{
+margin: 0 auto;
+text-align: center;	
+font-size:100%;
+padding-top: 2%;
+padding-bottom: 2%;
+}
+
+#topabout a{
+color: 	black;
+font-size: 100%;
+font-family: 'Segoe UI light';
+font-weight: bold ;
+}
+
+
+#contactemail{
+	text-align: center;
+
+}
+
+#contactemail h3{
+	font-family: 'Raleway';
+	font-size: 140%;
+}
+
+
+#appstores img{
+	width:50%;
+	padding-top: 2%;
+}
+#appstores{
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Oswald';
+	font-size: 140%;
+	padding-top: 10em;
+}
+
+#appstores h3{
+	font-size: 90%;
+	font-family: 'Raleway';
+}
+
+
+/*=================Responsive==============================*/
+
+/*MOBILE*/
+@media (max-width:480px) {
+
+	#mockup {
+		width:100%;
+	}
+
+	
+
+	.text {
+		width:100%;
+	}
+
+	.text p {
+		width:100%;
+	}
+
+	#testemonial {
+		width:100%;
+	}
+	#testemonial img{
+		width:100%;
+	}
+
+	.textabout {
+		width:100%;
+	}
+
+	.opacityboxabout{
+
+	}
+}
+/*TABLET*/
+@media  (min-width: 481px) and (max-width: 768px){
+
+	.navigation li{
+		width:100%;
+		font-size: 100%;
+		display:inline;
+		font-size: 100%;
+	}
+
+	.navigation ul{
+		/*visibility:hidden;*/
+	}
+
+
+	div #mockup img{
+	width:100%;
+	}
+
+	div #testemonials img{
+	width:125%;	
+	}
+
+	
+
+	.text {
+		width:100%;
+	}
+
+	.text p {
+		width:100%;
+	}
+
+	#testemonial {
+		width:100%;
+	}
+	#testemonial img{
+		width:100%;
+	}
+
+		.textabout {
+		width:100%;
+	}
+
+	.opacityboxabout{
+		
+	}
+}
+/*DESKTOP SMALL*/
+@media (min-width: 769px) and (max-width:1024px){
+
+	.navigation li{
+		width:100%;
+		font-size: 100%;
+		display:inline;
+		font-size: 100%;
+	}
+
+
+
+	div #mockup img{
+	width:100%;
+	}
+
+	div #testemonials img{
+	width:100%;	
+	}
+
+	
+
+	.text {
+		width:100%;
+
+	}
+
+	.text p {
+		width:100%;
+	}
+
+	#testemonial {
+		width:100%;
+	}
+	#testemonial img{
+		width:100%;
+	}
+
+}
+/*DESKPTOP LARGE*/
+@media  (min-width:1025px) {
+}
